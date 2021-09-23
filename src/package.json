@@ -1,0 +1,16 @@
+{
+  "name": "url_shortner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohit",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.6",
+    "dotenv": "^10.0.0",
+    "nightmare": "^3.0.2"
+  }
+}
